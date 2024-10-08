@@ -1,0 +1,21 @@
+2024/10/08-15:49:20.260 24a0 Reusing MANIFEST C:\Users\Wescley\Desktop\AULA CHATBOT\tokens\sessionName\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/10/08-15:49:20.260 24a0 Recovering log #111
+2024/10/08-15:49:20.302 24a0 Reusing old log C:\Users\Wescley\Desktop\AULA CHATBOT\tokens\sessionName\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000111.log 
+2024/10/08-15:49:21.299 2840 Level-0 table #120: started
+2024/10/08-15:49:21.315 2840 Level-0 table #120: 794285 bytes OK
+2024/10/08-15:49:21.316 2840 Delete type=0 #111
+2024/10/08-15:49:21.316 2408 Manual compaction at level-0 from '\x00\x19\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x1a\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/10/08-15:49:22.711 24a0 Compacting 1@1 + 5@2 files
+2024/10/08-15:49:22.764 24a0 Generated table #121@1: 29476 keys, 2188518 bytes
+2024/10/08-15:49:22.793 24a0 Generated table #122@1: 3275 keys, 2158073 bytes
+2024/10/08-15:49:22.846 24a0 Generated table #123@1: 29319 keys, 2225516 bytes
+2024/10/08-15:49:22.901 24a0 Generated table #124@1: 83597 keys, 2230396 bytes
+2024/10/08-15:49:22.913 24a0 Generated table #125@1: 16233 keys, 366968 bytes
+2024/10/08-15:49:22.913 24a0 Compacted 1@1 + 5@2 files => 9169471 bytes
+2024/10/08-15:49:22.913 24a0 compacted to: files[ 0 0 5 0 0 0 0 ]
+2024/10/08-15:49:22.914 24a0 Delete type=2 #113
+2024/10/08-15:49:22.914 24a0 Delete type=2 #114
+2024/10/08-15:49:22.914 24a0 Delete type=2 #115
+2024/10/08-15:49:22.914 24a0 Delete type=2 #116
+2024/10/08-15:49:22.914 24a0 Delete type=2 #117
+2024/10/08-15:49:22.914 24a0 Delete type=2 #120
